@@ -1,3 +1,5 @@
+Original source: https://hack.aragon.org/docs/guides-custom-deploy#adding-a-voting-instance
+
 This guide will show you the process to deploy a blank organization and configure it as a custom organization for a cooperative.
 
 We assume you have a general understanding of Aragon stack.
